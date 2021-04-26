@@ -1,6 +1,4 @@
-# My repositories for the 21 (42) schools "Evaluator" piscine-project
-
-## evaluator
+# Evaluator 
 
 ## Installation
 
